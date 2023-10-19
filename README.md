@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Spiritualflex
-- 👀 I’m interested in alot of things like coding team work that ype of stuff ya know
+- 👀 I’m interested in alot of things like coding team work that type of stuff ya know
 - 🌱 I’m currently learning all of the skills
 - 💞️ I’m looking to collaborate on anything 
-- 📫 How to reach me
+- 📫 How to reach me my profile 
 
 <!---
 Spiritualflex/Spiritualflex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
